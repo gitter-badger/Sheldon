@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/Malinskiy/Sheldon.svg?branch=master)](https://travis-ci.org/Malinskiy/Sheldon) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Sheldon-green.svg?style=true)](https://android-arsenal.com/details/1/3378)
 
 # Sheldon
+
+[![Join the chat at https://gitter.im/Malinskiy/Sheldon](https://badges.gitter.im/Malinskiy/Sheldon.svg)](https://gitter.im/Malinskiy/Sheldon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Key concepts:
 
 * Preferences **should not be tied to concrete implementation**, they should be an interface 
